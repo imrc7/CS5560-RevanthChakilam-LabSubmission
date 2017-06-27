@@ -6,3 +6,5 @@ Lab1A: https://github.com/revanthchakilam/CS5560-RevanthChakilam-LabSubmission/w
 Lab1B: https://github.com/revanthchakilam/CS5560-RevanthChakilam-LabSubmission/wiki/Lab-Assignment-1B
 
 Lab2:  https://github.com/revanthchakilam/CS5560-RevanthChakilam-LabSubmission/wiki/Lab-Assignment-2
+
+Lab3: https://github.com/revanthchakilam/CS5560-RevanthChakilam-LabSubmission/wiki/Lab-Assignment-3
