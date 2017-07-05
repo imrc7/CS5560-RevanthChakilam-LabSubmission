@@ -2,7 +2,7 @@ import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
 
-object qanda {
+object qasystem {
 
 
   def main(args: Array[String]): Unit = {
