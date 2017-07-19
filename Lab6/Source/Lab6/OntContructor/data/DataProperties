@@ -1,0 +1,3 @@
+fullName,Person,string
+ID,Person,int
+Age,Person,int
